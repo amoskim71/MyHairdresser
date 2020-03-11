@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1801774466",
+    "firebase_url": "https://myhairdresser-dd0eb.firebaseio.com",
+    "project_id": "myhairdresser-dd0eb",
+    "storage_bucket": "myhairdresser-dd0eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1801774466:android:1525540f1d6a7339b75b9b",
+        "android_client_info": {
+          "package_name": "pl.patryk.myhairdresser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1801774466-jpla5e758rmsbfsua17uejnb8g582igm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNeR9ayd3YRxM-_yeAtvHWK-8Yug-Dvq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1801774466-jpla5e758rmsbfsua17uejnb8g582igm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
