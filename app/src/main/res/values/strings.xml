@@ -104,7 +104,7 @@
     <string name="section_header_pending">PENDING</string>
     <string name="section_header_approved">APPROVED</string>
     <string name="section_header_rejected">REJECTED</string>
-    <string name="snack_bar_warning_txt">Please complete your personal details to be able to make an appointment!</string>
+    <string name="insufficient_registration_data_toast_warning_txt">Please complete your personal details to be able to make an appointment!</string>
     <string name="appointment_notifications_channel_id">appointments_channel_id</string>
     <string name="step_hour_title">Select available hour</string>
     <string name="stepper_last_step_cancel_button_text">CANCEL</string>

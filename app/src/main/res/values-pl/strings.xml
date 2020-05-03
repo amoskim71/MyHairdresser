@@ -105,7 +105,7 @@
     <string name="section_header_pending">OCZEKUJĄCE</string>
     <string name="section_header_approved">ZATWIERDZONE</string>
     <string name="section_header_rejected">ODRZUCONE</string>
-    <string name="snack_bar_warning_txt">Uzupełnij swoje dane, aby móc zarejestrowac wizytę!</string>
+    <string name="insufficient_registration_data_toast_warning_txt">Uzupełnij swoje dane, aby móc zarejestrowac wizytę!</string>
     <string name="appointment_notifications_channel_id">appointments_channel_id</string>
     <string name="step_service_title">Wybierz usługę</string>
     <string name="step_date_title">Wybierz dzień wizyty</string>
